@@ -1,4 +1,4 @@
-package strings;
+package JavaPracticePrograms.strings;
 import java.util.Scanner;
 
 public class StringReversalPractice {

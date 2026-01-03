@@ -1,4 +1,4 @@
-package methods;
+package JavaPracticePrograms.methods;
 
 public class ReturnValuePractice {
     static int doubleValue(int x){

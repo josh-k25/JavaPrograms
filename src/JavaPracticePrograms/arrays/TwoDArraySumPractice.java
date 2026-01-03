@@ -1,4 +1,4 @@
-package arrays;
+package JavaPracticePrograms.arrays;
 
 public class TwoDArraySumPractice {
     public static void main(String[] args) {

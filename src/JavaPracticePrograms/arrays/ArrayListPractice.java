@@ -1,4 +1,4 @@
-package arrays;
+package JavaPracticePrograms.arrays;
 import java.util.ArrayList;
 import java.util.Scanner;
 

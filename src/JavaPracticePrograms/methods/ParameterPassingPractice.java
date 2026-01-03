@@ -1,4 +1,4 @@
-package methods;
+package JavaPracticePrograms.methods;
 
 public class ParameterPassingPractice {
     static void doubleValue(int x){

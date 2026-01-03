@@ -1,4 +1,4 @@
-package methods;
+package JavaPracticePrograms.methods;
 import java.util.Scanner;
 
 public class MethodsPractice {
